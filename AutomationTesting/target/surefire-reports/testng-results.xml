@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-20T13:20:27 IST" name="TestCases.HomePageTest" finished-at="2023-03-20T13:20:39 IST" duration-ms="12152">
+  <suite started-at="2023-03-21T10:45:15 IST" name="TestCases.HomePageTest" finished-at="2023-03-21T10:45:30 IST" duration-ms="14415">
     <groups>
     </groups>
-    <test started-at="2023-03-20T13:20:27 IST" name="Command line test" finished-at="2023-03-20T13:20:39 IST" duration-ms="12152">
+    <test started-at="2023-03-21T10:45:15 IST" name="Command line test" finished-at="2023-03-21T10:45:30 IST" duration-ms="14415">
       <class name="TestCases.HomePageTest">
-        <test-method is-config="true" signature="HitBrowser()[pri:0, instance:TestCases.HomePageTest@55f616cf]" started-at="2023-03-20T13:20:27 IST" name="HitBrowser" finished-at="2023-03-20T13:20:36 IST" duration-ms="9144" status="PASS">
+        <test-method is-config="true" signature="HitBrowser()[pri:0, instance:TestCases.HomePageTest@55f616cf]" started-at="2023-03-21T10:45:15 IST" name="HitBrowser" finished-at="2023-03-21T10:45:27 IST" duration-ms="11215" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HitBrowser -->
-        <test-method signature="type()[pri:1, instance:TestCases.HomePageTest@55f616cf]" started-at="2023-03-20T13:20:36 IST" name="type" finished-at="2023-03-20T13:20:39 IST" duration-ms="2475" status="PASS">
+        <test-method signature="type()[pri:1, instance:TestCases.HomePageTest@55f616cf]" started-at="2023-03-21T10:45:27 IST" name="type" finished-at="2023-03-21T10:45:29 IST" duration-ms="2772" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- type -->
-        <test-method signature="Webtable()[pri:2, instance:TestCases.HomePageTest@55f616cf]" started-at="2023-03-20T13:20:39 IST" name="Webtable" finished-at="2023-03-20T13:20:39 IST" duration-ms="77" status="PASS">
+        <test-method signature="Webtable()[pri:2, instance:TestCases.HomePageTest@55f616cf]" started-at="2023-03-21T10:45:29 IST" name="Webtable" finished-at="2023-03-21T10:45:29 IST" duration-ms="102" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Webtable -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.HomePageTest@55f616cf]" started-at="2023-03-20T13:20:39 IST" name="TearDown" finished-at="2023-03-20T13:20:39 IST" duration-ms="407" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.HomePageTest@55f616cf]" started-at="2023-03-21T10:45:29 IST" name="TearDown" finished-at="2023-03-21T10:45:30 IST" duration-ms="242" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
